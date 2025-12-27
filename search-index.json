@@ -1,0 +1,14 @@
+[
+  {
+    "id": "index",
+    "title": "Главная",
+    "content": "Привет. Вот и еще один сайт",
+    "url": "index.html"
+  },
+  {
+    "id": "search",
+    "title": "Поиск",
+    "content": "Страница поиска по сайту",
+    "url": "search.html"
+  }
+]
