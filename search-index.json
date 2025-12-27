@@ -1,14 +1,14 @@
 [
   {
-    "id": "index",
-    "title": "Главная",
-    "content": "Привет. Вот и еще один сайт",
-    "url": "index.html"
+    "id": "editable",
+    "title": "",
+    "content": "привет. вот и еще один сайт new html box new html box",
+    "url": "editable.html"
   },
   {
-    "id": "search",
-    "title": "Поиск",
-    "content": "Страница поиска по сайту",
-    "url": "search.html"
+    "id": "index",
+    "title": "- Page 1",
+    "content": "- page 1 привет. вот и еще один сайт",
+    "url": "index.html"
   }
 ]
